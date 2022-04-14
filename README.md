@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nokerokuta
+- 👀 I’m interested in JAVA
+- 🌱 I’m currently learning Spring Framework

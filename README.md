@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @nokerokuta
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning Spring Framework
+- 👋 Hi, I’m [@nokerokuta](https://t.me/nokerakuta)
+- 👀 I’m interested in Java && Scala
+- 🎓 I’m currently learning functional programming
